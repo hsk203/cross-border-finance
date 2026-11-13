@@ -6,12 +6,15 @@ lang: zh-CN
 category: banking
 tags: ["香港银行开户", "港卡开户", "中银香港", "汇丰"]
 cover: tool
+coverImage: "/images/hk-bank-account/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 香港银行账户是出海的第一张牌：收美金、买美股、开 Wise、注册海外公司，几乎都要先有一个香港银行账户。本文讲清楚内地居民 2026 年开香港银行账户的完整流程、每家主流银行的区别、需要准备的材料，以及最容易被拒的坑。
+
+![汇丰香港官网首页](/images/hk-bank-account/home.webp)
 
 > 本文仅为信息整理，不构成任何金融或投资建议。银行政策会随时调整，开户前请以银行官网的最新要求为准。
 

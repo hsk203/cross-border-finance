@@ -6,12 +6,15 @@ lang: zh-CN
 category: brokerage
 tags: ["盈透证券", "IBKR", "美股开户"]
 cover: tool
+coverImage: "/images/ibkr-account/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 盈透证券（Interactive Brokers，简称 IBKR）是全球最大的互联网券商之一，以低交易费、全球市场覆盖和多币种账户著称，是专业投资者的首选。但 2026 年之后，内地居民开 IBKR 的门槛明显提高。本文讲清楚 IBKR 现在的开户条件、费用和审核要点。
+
+![盈透证券官网首页](/images/ibkr-account/home.webp)
 
 > 本文仅为信息整理，不构成任何投资建议。券商政策会随时调整，开户前请以 IBKR 官网的最新要求为准。
 

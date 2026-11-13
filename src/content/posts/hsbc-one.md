@@ -6,12 +6,15 @@ lang: zh-CN
 category: banking
 tags: ["汇丰 One", "汇丰开户", "HSBC", "港卡开户"]
 cover: tool
+coverImage: "/images/hsbc-one/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 汇丰 One 是汇丰香港面向普通客户的综合理财账户，也是目前对内地居民最友好的港卡：人还在内地时就能先用 HSBC HK App 提交申请，审核通过后 90 天内到香港激活，不用去分行排队。本文讲清楚汇丰 One 的开户流程、月费规则和注意事项。
+
+![汇丰香港官网首页](/images/hsbc-one/home.webp)
 
 > 本文仅为信息整理，不构成任何金融建议。银行政策会随时调整，开户前请以汇丰官网的最新要求为准。
 

@@ -6,12 +6,15 @@ lang: zh-CN
 category: payments
 tags: ["Wise 手续费", "Wise 汇款", "跨境汇款"]
 cover: tool
+coverImage: "/images/wise-fees/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 Wise 是目前华人最常用的跨境汇款工具之一，核心卖点是"中间市场汇率 + 透明手续费"：它不像传统银行那样在汇率里藏 2%–3% 的加价，而是按实时中间汇率换汇，只收一笔明码标价的手续费。本文讲清楚 Wise 2026 年的真实费率、不同付款方式的价格差、到账中国的限额，以及怎么省手续费。
+
+![Wise 官网首页](/images/wise-fees/home.webp)
 
 > 本文仅为信息整理，不构成任何金融或投资建议。费率会随时调整，汇款前请以 Wise 官网的实时报价为准。
 

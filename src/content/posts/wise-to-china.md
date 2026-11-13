@@ -6,12 +6,15 @@ lang: zh-CN
 category: payments
 tags: ["Wise 汇款回国", "Wise 支付宝", "Wise 微信"]
 cover: tool
+coverImage: "/images/wise-to-china/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 在海外工作、留学或做生意的华人，经常需要把美元、港币、欧元汇回中国。Wise 支持直接汇到支付宝、微信支付和银联银行卡，但三种方式的限额和到账时间差别很大。本文讲清楚每种方式的具体规则，帮你选最合适的收款渠道。
+
+![Wise 汇款至中国大陆页面](/images/wise-to-china/home.webp)
 
 > 本文仅为信息整理，不构成任何金融建议。限额与费率会随时调整，汇款前请以 Wise 官网的实时信息为准。
 

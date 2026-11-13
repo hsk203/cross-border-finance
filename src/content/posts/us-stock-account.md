@@ -6,12 +6,15 @@ lang: zh-CN
 category: brokerage
 tags: ["美股开户", "盈透证券", "富途", "长桥"]
 cover: tool
+coverImage: "/images/us-stock-account/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 美股开户是 2026 年变化最大的跨境金融话题。2026 年 5 月监管集中整顿之后，富途、老虎、长桥这些曾经最流行的互联网券商全部停止了内地新开户。本文讲清楚 2026 年 11 月的最新政策：内地居民现在还能开哪些券商、每家要什么材料、以及 W-8BEN 表和入金的完整流程。
+
+![Firstrade 官网首页](/images/us-stock-account/home.webp)
 
 > 本文仅为信息整理，不构成任何投资建议。券商政策会随时调整，开户前请以券商官网的最新要求为准。
 

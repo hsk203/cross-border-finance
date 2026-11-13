@@ -6,12 +6,15 @@ lang: zh-CN
 category: payments
 tags: ["Payoneer", "Payoneer 收款", "跨境收款"]
 cover: tool
+coverImage: "/images/payoneer/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 Payoneer（派安盈）是跨境电商卖家、自由职业者最常用的收款工具之一：亚马逊、Upwork、Fiverr、Airbnb 等平台都支持用 Payoneer 收款。本文讲清楚 Payoneer 的注册流程、收款手续费、提现到国内银行卡的方法和费用。
+
+![Payoneer 官网首页](/images/payoneer/home.webp)
 
 > 本文仅为信息整理，不构成任何金融建议。费率会随时调整，使用前请以 Payoneer 官网的最新信息为准。
 

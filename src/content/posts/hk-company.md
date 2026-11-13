@@ -6,12 +6,15 @@ lang: zh-CN
 category: company
 tags: ["香港公司注册", "离岸公司", "香港公司"]
 cover: tool
+coverImage: "/images/hk-company/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 香港公司是华人出海最常用的离岸主体：注册快、税率低、离内地近，开香港银行账户也方便。本文讲清楚注册香港公司的费用、流程、年审报税，以及注册后怎么开银行账户。
+
+![香港公司注册处电子服务网站](/images/hk-company/home.webp)
 
 > 本文仅为信息整理，不构成任何法律或税务建议。注册前请咨询持牌秘书公司或会计师，并以香港公司注册处官网的最新要求为准。
 

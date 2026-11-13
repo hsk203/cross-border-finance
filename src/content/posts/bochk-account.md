@@ -6,12 +6,15 @@ lang: zh-CN
 category: banking
 tags: ["中银香港", "中银香港开户", "港卡开户"]
 cover: tool
+coverImage: "/images/bochk-account/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 中银香港是内地居民开港卡最常选的银行之一：不收开户费，2019 年起取消了综合理财月费和中银卡年费，App 开户不用跑分行。但 2026 年 App 显示"秒过"之后还要人工审核，被拒的案例明显变多。本文讲清楚中银香港的两种开户方式、材料清单和避坑要点。
+
+![中银香港官网首页](/images/bochk-account/home.webp)
 
 > 本文仅为信息整理，不构成任何金融建议。银行政策会随时调整，开户前请以中银香港官网的最新要求为准。
 

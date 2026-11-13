@@ -6,12 +6,15 @@ lang: zh-CN
 category: company
 tags: ["注册美国公司", "美国 LLC", "离岸公司"]
 cover: tool
+coverImage: "/images/us-llc/home.webp"
 featured: false
 draft: false
 updatedDate: 2026-11-12
 ---
 
 注册美国公司是很多出海创业者、跨境电商卖家和自由职业者的第一步：有了美国公司，才能开美国银行账户（Mercury、Wise）、接 Stripe 收款、上架亚马逊美国站。本文讲清楚注册美国公司的两种主要形式、费用、流程和常见问题。
+
+![怀俄明州州务卿官网首页](/images/us-llc/home.webp)
 
 > 本文仅为信息整理，不构成任何法律或税务建议。注册前请咨询持牌律师或会计师，并以各州政府官网的最新要求为准。
 
