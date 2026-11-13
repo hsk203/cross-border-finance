@@ -1,5 +1,10 @@
 name = "cross-border-finance-zh-hant"
 compatibility_date = "2026-11-13"
+workers_dev = true
+
+routes = [
+  { pattern = "finance-hant.aitech8.com", custom_domain = true },
+]
 
 [assets]
 directory = "./dist-zh-hant"
