@@ -14,11 +14,11 @@ export const categoryLabel = (category: string) =>
 // Preserve frontmatter written with Chinese category labels.
 export function normalizeCategory(value: string): string {
   const legacy: Record<string, Category> = {
-    "银行开户": "banking",
-    "券商开户": "brokerage",
-    "跨境收款": "payments",
-    "离岸公司": "company",
-    "税务": "tax",
+    银行开户: "banking",
+    券商开户: "brokerage",
+    跨境收款: "payments",
+    离岸公司: "company",
+    税务: "tax",
   };
   return (
     legacy[value] ??
