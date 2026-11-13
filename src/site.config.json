@@ -11,6 +11,10 @@
     }
   },
   "hero": { "image": "/images/hero.webp" },
+  "alternateSite": {
+    "zh-CN": "https://cross-border-finance.517519203.workers.dev",
+    "zh-Hant": "https://cross-border-finance-zh-hant.517519203.workers.dev"
+  },
   "language": "zh-CN",
   "navigation": [
     { "icon": "icon-[bx--bxs-home-circle]", "label": "nav.home", "url": "/" },
