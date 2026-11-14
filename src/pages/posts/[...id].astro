@@ -27,8 +27,7 @@ const hasToolInfo = Boolean(
   tool.startingPrice ||
   tool.needVPN !== undefined ||
   tool.cnAlternative ||
-  tool.affiliateUrl ||
-  tool.updatedDate,
+  tool.affiliateUrl,
 );
 const index = posts.findIndex((item) => item.id === getPostId(post));
 const newer = posts[index - 1];
