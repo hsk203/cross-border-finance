@@ -286,6 +286,11 @@ onUnmounted(() => window.removeEventListener("popstate", readUrl));
   padding: 9px 10px;
   margin-bottom: 18px;
   border-radius: 13px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.feed-tabs::-webkit-scrollbar {
+  display: none;
 }
 .feed-tabs button {
   padding: 7px 13px;
@@ -517,7 +522,7 @@ onUnmounted(() => window.removeEventListener("popstate", readUrl));
     display: none;
   }
   .feed-tabs {
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 1px;
     padding: 8px;
   }
