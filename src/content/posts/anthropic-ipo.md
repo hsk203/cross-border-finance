@@ -16,7 +16,7 @@ Claude 背后的公司 Anthropic 真的要上市了：它已经向美国证监�
 
 但"提前申购"这四个字至少有三种完全不同的含义：通过券商拿到真正的股票、通过加密平台拿到映射正股的代币、或者干脆只交易一个跟踪价格的期货合约。花的钱、拿的东西、承担的风险完全不一样。本文先把招股书的事实核实清楚，再讲 Bitget 这条路到底是什么。
 
-![Seven科技生活 2026 年 11 月 13 日发布的 Anthropic IPO 视频页面](/images/anthropic-ipo/home.webp)
+![Bitget IPO Prime 官方页面：当前项目为 Anthropic（rANT）](/images/anthropic-ipo/home.webp)
 
 > 本文仅为信息整理，不构成任何投资建议。IPO 条款、费用和截止时间随时可能调整，参与前请以 Anthropic 招股书和 Bitget 官网的最新信息为准。
 
